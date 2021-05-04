@@ -12,6 +12,3 @@
 </a>
 
 
-.github-stats-card{
-  width: 100px;
-}

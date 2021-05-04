@@ -1,4 +1,4 @@
-<link href="/path/to/hoge.css" rel="stylesheet"></link>
+<link href="README.css" rel="stylesheet"></link>
 
 <table>
   <td valign="center" class="github-stats-card">

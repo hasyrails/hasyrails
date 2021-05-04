@@ -2,20 +2,13 @@
   <img align="center" src="https://grass-graph.moshimo.works/images/hasyrails.png" />
 </a>
 
-<div>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=hasyrails&hide_border=true" />
-    </a>
-  </div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasyrails&hide_border=true" />
+</a>
 
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasyrails&layout=compact" />
-    </a>
-  </div>
-</div>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasyrails&layout=compact" />
+</a>
 
 ### ポートフォリオ 
 <a>

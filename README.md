@@ -21,6 +21,7 @@
 ##### 使用技術
  - Rails
  - AWS
+
 詳細は [favimo/app_design_document.md](https://github.com/hasyrails/favimo/blob/master/app_design_document.md)　へ
 ##### URL
  - [faviMoのGitHubリポジトリはこちら](https://github.com/hasyrails/favimo)

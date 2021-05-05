@@ -16,11 +16,12 @@
 </a>
 
 #### faviMo
-自分のお気に入りのYoutube動画を共有できるアプリです
-詳細は[favimo/README.md](https://github.com/hasyrails/favimo#readme)へ
+自分のお気に入りのYoutube動画を共有できるアプリです</br>
+詳細は [favimo/README.md](https://github.com/hasyrails/favimo#readme) へ
 ##### 使用技術
  - Rails
  - AWS
+詳細は [favimo/app_design_document.md](https://github.com/hasyrails/favimo/blob/master/app_design_document.md)　へ
 ##### URL
  - [faviMoのGitHubリポジトリはこちら](https://github.com/hasyrails/favimo)
  - [https://www.favimo-video-share-app.com](https://www.favimo-video-share-app.com/)

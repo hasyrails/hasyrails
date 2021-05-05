@@ -17,6 +17,7 @@
 
 #### faviMo
 自分のお気に入りのYoutube動画を共有できるアプリです
+詳細は[favimo/README.md](hasyrails/favimo/README.md)へ
 ##### 使用技術
  - Rails
  - AWS

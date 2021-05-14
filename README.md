@@ -26,3 +26,6 @@
 ##### URL
  - [faviMoのGitHubリポジトリはこちら](https://github.com/hasyrails/favimo)
  - [https://www.favimo-video-share-app.com](https://www.favimo-video-share-app.com/)
+
+### 技術ブログ
+ - [はてなブログ](https://hasyrails.hatenablog.com/)

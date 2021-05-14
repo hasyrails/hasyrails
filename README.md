@@ -29,3 +29,4 @@
 
 ### 技術ブログ
  - [はてなブログ](https://hasyrails.hatenablog.com/)
+ - [Qiita](https://qiita.com/hasyrails)
